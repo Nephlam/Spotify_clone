@@ -1,5 +1,5 @@
 # spotify-clone-django
-python Django clone music app
+Python Django based Spotify clone music app
 
 
 
